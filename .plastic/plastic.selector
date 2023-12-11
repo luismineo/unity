@@ -1,0 +1,4 @@
+repository "01_clock@luismineo@cloud"
+  path "/"
+    br "/main"
+    co "/main"
